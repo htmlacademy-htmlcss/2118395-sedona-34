@@ -1,12 +1,12 @@
 # Личный проект «Седона»
 
-* Студент: [Булат Очиров](https://up.htmlacademy.ru/htmlcss/34/user/2118395).
-* Наставник: `Неизвестно`.
+- Студент: [Булат Очиров](https://up.htmlacademy.ru/htmlcss/34/user/2118395).
+- Наставник: [Евгений Петров](https://htmlacademy.ru/profile/id617077).
 
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+\_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`.
 
 ---
 
